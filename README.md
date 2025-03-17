@@ -1,6 +1,6 @@
 # Curso Web Full Stack Hero Geek
 
-<!-- Este é um comentário que não aparecerá quando renderizado -->
+<!-- Colocar os Videos, exercicios para casa, bem como as respostas dos exercicios -->
 
 ## HTML
 
