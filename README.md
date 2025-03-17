@@ -1,5 +1,7 @@
 # Curso Web Full Stack Hero Geek
 
+<!-- Este é um comentário que não aparecerá quando renderizado -->
+
 ## HTML
 
 ## CSS
