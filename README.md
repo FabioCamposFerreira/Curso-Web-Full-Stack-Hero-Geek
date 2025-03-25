@@ -10,6 +10,8 @@
 
 ## JavaScript
 
+[![Assista ao vídeo](https://img.youtube.com/vi/42TShjXR0m0/0.jpg)](https://www.youtube.com/watch?v=42TShjXR0m0)
+
 ## Bootstrap
 
 ## PHP
