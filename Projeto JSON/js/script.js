@@ -1,5 +1,5 @@
 // Função para gerar elementos HTML para cada notícia
-fetch('../DataBase.json')
+fetch('DataBase.json')
 	.then(response => response.json())
 	.then(data => {
 		const container = document.createElement('div');
@@ -18,13 +18,15 @@ fetch('../DataBase.json')
 			`;
 			container.appendChild(noticia);
 		});
-	})
-	.catch(error => {
-		console.error('Erro ao carregar as notícias:', error);
-	});
-
-news = document.querySelector('#noticias');
-news.appendChild(container);
+			// Se quiser adicionar o container em um elemento específico, use:
+			const news = document.querySelector('#noticias');
+			if (news) {
+				news.appendChild(container);
+			}
+		})
+		.catch(error => {
+			console.error('Erro ao carregar as notícias:', error);
+		});
 
 // https://newsapi.org/v2/everything?q=brasil&from=2025-09-06&sortBy=publishedAt&apiKey=366a4893cc3440b486f45b01e7fe90a5
 
