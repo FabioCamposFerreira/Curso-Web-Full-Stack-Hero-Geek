@@ -61,3 +61,4 @@ void loop() {
   digitalWrite(13, LOW);  // Desliga o LED
   delay(1000);            // Espera 1 segundo
 }
+ 
