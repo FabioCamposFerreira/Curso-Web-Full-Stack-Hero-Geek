@@ -119,7 +119,7 @@
 	- **Conteúdo:** Frontend, backend, banco de dados.
 	- **Atividades práticas:** Implementação das funcionalidades.
 	- **Observação:** Entrega do projeto, apresentação, relatório, publicação na nuvem, atualização de currículo e portfólio.
-
+	- **Vídeos:**( [TUTORIAL] Sistema de Busca usando PHP e MySQL (Fácil e Atualizado 2022)[https://www.youtube.com/watch?v=E27ritQokA0]
 ---
 
 ### Aula 42: Introdução ao React
@@ -190,3 +190,4 @@ Após cada projeto, o aluno deve:
 ---
 
 Pronto para ser usado em plataforma LMS ou GitHub!
+
