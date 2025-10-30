@@ -43,7 +43,8 @@
 	- **Conteúdo:** Estrutura de páginas, estilização, responsividade.
 	- **Atividades práticas:** Construção de páginas, aplicação de estilos.
 	- **Observação:** Entrega do projeto, apresentação, relatório, publicação na nuvem, atualização de currículo e portfólio.
-    - **Vídeos**: [Aprenda CSS Position em 10 Minutos - Tutorial CSS para Iniciantes](https://www.youtube.com/watch?v=zPlt84S1L0U)
+	- **Vídeos**: [CSS Aula 10 - Propriedades Margin, Padding, Border](https://www.youtube.com/watch?v=9KZYHuunpXU)
+	- **Vídeos**: [Aprenda CSS Position em 10 Minutos - Tutorial CSS para Iniciantes](https://www.youtube.com/watch?v=zPlt84S1L0U)
 
 ---
 
@@ -191,5 +192,6 @@ Após cada projeto, o aluno deve:
 ---
 
 Pronto para ser usado em plataforma LMS ou GitHub!
+
 
 
