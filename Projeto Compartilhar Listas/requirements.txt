@@ -1,0 +1,21 @@
+# Share Products - Dependências
+
+# Interface Gráfica: usada para criar a interface do usuário
+customtkinter>=5.2.0
+
+# QR Code: usado para gerar e ler QR Codes
+qrcode[pil]>=8.0
+Pillow>=10.4.0
+
+# Leitura de QR Code: usado para ler QR Codes a partir da webcam
+opencv-python>=4.10.0
+pyzbar==0.1.9
+
+# Clipboard: usado para copiar o código de compartilhamento para a área de transferência
+pyperclip>=1.9.0
+
+# Numpy (requerido pelo OpenCV): usado para manipulação de arrays, necessário para o OpenCV
+numpy>=1.26.0
+
+# Build: usado para criar um executável da aplicação
+pyinstaller
