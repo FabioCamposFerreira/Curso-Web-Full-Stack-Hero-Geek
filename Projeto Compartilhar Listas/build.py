@@ -4,6 +4,7 @@ Script para gerar executável do Share Products
 import os
 import subprocess
 import shutil
+import sys
 
 
 def build_executable():
@@ -24,9 +25,18 @@ def build_executable():
         print("🗑️  Removendo spec anterior...")
         os.remove("ShareProducts.spec")
 
-    # Comando PyInstaller
+    # Comando PyInstaller usando o executável direto
+    if sys.platform == "win32":
+        # No Windows, o executável está em Scripts
+        python_dir = os.path.dirname(sys.executable)
+        pyinstaller_path = os.path.join(python_dir, "Scripts", "pyinstaller.exe")
+    else:
+        # Em Linux/Mac, o executável está no bin
+        python_dir = os.path.dirname(sys.executable)
+        pyinstaller_path = os.path.join(python_dir, "pyinstaller")
+    
     cmd = [
-        "pyinstaller",
+        pyinstaller_path,
         "--onefile",  # Um único arquivo
         "--windowed",  # Sem console (Windows)
         "--name=ShareProducts",  # Nome do executável
