@@ -22,6 +22,7 @@
 - **Conteúdo:** Estrutura de um site, HTML básico, evento `onclick`.
 - **Atividade prática:** Criar um site simples com `<h1>` e botão para mudar a cor de fundo usando JavaScript.
 - **Observação:** Entrega do site simples.
+- **Dever de Casa:** [Primeiro Site](https://youtu.be/n_Etdr7Dbjs?si=9QDrzWExEu9hgrl7)
 
 ### Aula 2: Mercado de Trabalho e Metodologias Ágeis
 - **Objetivo:** Compreender o cenário profissional e introduzir Scrum.
