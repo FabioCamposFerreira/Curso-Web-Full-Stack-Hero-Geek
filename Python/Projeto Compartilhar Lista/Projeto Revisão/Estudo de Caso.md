@@ -6,4 +6,4 @@ Além disso, você precisa calcular o valor total a ser pago, considerando o sal
 
 Para automatizar esse processo, será desenvolvido um aplicativo desktop utilizan
 
-![Estudo de Caso](./Estudo de Caso.png)
+![(Estudo de Caso)](\./Estudo de Caso.png)
