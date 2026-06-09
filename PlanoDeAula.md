@@ -90,6 +90,46 @@
 
 ---
 
+### Aula 27: Variaveis, If, Lista e For com Python 
+
+### Aula 28: Funções em Python 
+
+### Aula 29: Customtkinker no Python 
+
+- **Dever de casa**: Projeto de calcular horas de um trabalhador
+- 
+### Projeto 4: Carrinhos de Comprar em Python
+- **Aulas 30 a 33**
+	- **Objetivo:** Construir um carrinho de compras simples usando Python e Customtkinker.
+	- **Conteúdo:** Variáveis, estruturas de controle, funções, interface gráfica.
+	- **Atividades práticas:** Desenvolvimento do carrinho de compras.
+	- **Observação:** Entrega do projeto, apresentação, relatório, publicação na nuvem, atualização de currículo e portfólio.
+	- **Vídeos:** 
+
+### Aula 34: Introdução a React
+- **Objetivo:** Aprender os fundamentos do React.
+- **Conteúdo:** Componentes, props, estado.
+- **Atividade prática:** Criar um aplicativo simples em React.
+- **Observação:** Entrega do projeto, apresentação, relatório, publicação na nuvem, atualização de currículo e portfólio.
+
+### Projeto 5: Monitorar o tempo nas Cidades
+- **Aulas 35 a 38**
+	- **Objetivo:** Construir um aplicativo de monitoramento do tempo usando React.
+	- **Conteúdo:** Consumo de APIs, gerenciamento de estado, design responsivo.
+	- **Atividades práticas:** Desenvolvimento do aplicativo.
+	- **Observação:** Entrega do projeto, apresentação, relatório, publicação na nuvem, atualização de currículo e portfólio.
+  
+### Aula 39: Introdução ao Bootstrap
+- **Objetivo:** Aprender framework de CSS.
+- **Conteúdo:** Componentes, grid, responsividade.
+- **Atividade prática:** Aplicar Bootstrap em páginas.
+
+### Aula 40: Modificando o Projeto 5 com Bootstrap
+- **Objetivo:** Melhorar o design do projeto anterior.
+- **Conteúdo:** Integração de Bootstrap, customização.
+- **Atividade prática:** Refatorar o projeto de monitoramento do tempo com Bootstrap.
+
+
 ### Aula 27: Oracle Cloud Free Always
 - **Objetivo:** Conhecer e utilizar a nuvem Oracle.
 - **Conteúdo:** Criação de conta, deploy de projetos.
@@ -97,10 +137,6 @@
 
 ---
 
-### Aula 28: Introdução ao Bootstrap
-- **Objetivo:** Aprender framework de CSS.
-- **Conteúdo:** Componentes, grid, responsividade.
-- **Atividade prática:** Aplicar Bootstrap em páginas.
 
 ---
 
