@@ -10,9 +10,9 @@
 
 - Aulas expositivas e práticas.
 - Daily de 15 minutos no início de cada aula para alinhamento e dúvidas.
-- Questionário ao final de cada aula para fixação do conteúdo.
+- Questionário ao final de cada deve mostrar por escrito em três linhas uma resposta da pergunta de fixação da aula
 - Projetos práticos distribuídos ao longo do curso.
-
+- Dever de casa: Quem faz mais ganha direito de escolher o tema do projeto. Tem que mostrar o código do exercicio para outro aluno avaliar. Usar (Beecrowd, HackerRank ou Codewars)
 ---
 
 ## Plano de Aulas
