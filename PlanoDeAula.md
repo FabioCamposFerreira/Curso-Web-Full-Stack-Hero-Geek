@@ -35,6 +35,7 @@
 - **Conteúdo:** Vídeo sobre currículos, dicas de apresentação.
 - **Atividade prática:** Criação do próprio currículo.
 - **Observação:** Envio do currículo para avaliação.
+- **Videos**: [Novo Projeto | Criando um Site novo de Cafeteria](https://www.youtube.com/watch?v=v1jVqO6dx9A&t=197s)
 
 ---
 
