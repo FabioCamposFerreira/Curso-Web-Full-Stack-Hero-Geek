@@ -35,8 +35,6 @@
 - **Conteúdo:** Vídeo sobre currículos, dicas de apresentação.
 - **Atividade prática:** Criação do próprio currículo.
 - **Observação:** Envio do currículo para avaliação.
-- **Videos**: [Novo Projeto | Criando um Site novo de Cafeteria](https://www.youtube.com/watch?v=v1jVqO6dx9A&t=197s)
-
 ---
 
 ### Projeto 1: Réplica HTML e CSS de um site de notícias
@@ -45,7 +43,10 @@
 	- **Conteúdo:** Estrutura de páginas, estilização, responsividade.
 	- **Atividades práticas:** Construção de páginas, aplicação de estilos.
 	- **Observação:** Entrega do projeto, apresentação, relatório, publicação na nuvem, atualização de currículo e portfólio.
+	- **Vídeos**: [PROJETO CRIATIVO com HTML e CSS: A criação de um Login](https://youtu.be/Q8PNlCt2PSM)
 	- **Vídeos**: [CSS Aula 10 - Propriedades Margin, Padding, Border](https://www.youtube.com/watch?v=9KZYHuunpXU)
+	- **Vídeos**: [HTML + CSS na Prática! Crie seu Primeiro Site!](https://youtu.be/0pKBT0tj7Ik)
+	- **Vídeos**: [Novo Projeto | Criando um Site novo de Cafeteria](https://youtu.be/v1jVqO6dx9A)
 	- **Vídeos**: [Aprenda CSS Position em 10 Minutos - Tutorial CSS para Iniciantes](https://www.youtube.com/watch?v=zPlt84S1L0U)
 
 ---
@@ -119,6 +120,7 @@
 	- **Conteúdo:** Consumo de APIs, gerenciamento de estado, design responsivo.
 	- **Atividades práticas:** Desenvolvimento do aplicativo.
 	- **Observação:** Entrega do projeto, apresentação, relatório, publicação na nuvem, atualização de currículo e portfólio.
+    - **Videos**: [Google Tradutor Com React E Tailwind | Passo a Passo do ZERO](https://youtu.be/PIDu3fePvM8)
   
 ### Aula 39: Introdução ao Bootstrap
 - **Objetivo:** Aprender framework de CSS.
